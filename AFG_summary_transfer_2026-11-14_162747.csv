@@ -1,0 +1,2 @@
+country,iso_code,first_valid_year,first_valid_co2_million_tonnes,latest_valid_year,latest_valid_co2_million_tonnes,endpoint_percent_change,peak_year,peak_co2_million_tonnes,latest_per_capita_year,latest_co2_per_capita_tonnes
+Afghanistan,AFG,1990,2.038982,2024,10.741187,426.79165387433534,2011,11.563511,2024,0.2518597
